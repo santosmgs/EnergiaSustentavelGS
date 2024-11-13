@@ -1,0 +1,5 @@
+com\sustentavel\energiasustentavel\controller\FonteEnergiaController.class
+com\sustentavel\energiasustentavel\model\FonteEnergia.class
+com\sustentavel\energiasustentavel\repository\FonteEnergiaRepository.class
+com\sustentavel\energiasustentavel\service\FonteEnergiaService.class
+com\sustentavel\energiasustentavel\EnergiaSustentavelApplication.class
